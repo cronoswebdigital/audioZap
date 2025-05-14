@@ -1,11 +1,11 @@
 <?php
 
-$encUrl = $_POST['url'];
+/*$encUrl = $_POST['url'];
 $mediaKeyBase64 = $_POST['mediaKey'];
-$mediaType = $_POST['mediaType'];
+$mediaType = $_POST['mediaType'];*/
 
 // Dados fornecidos pelo webhook do WhatsApp
-/*$encUrl = 'https://mmg.whatsapp.net/v/t62.7117-24/23375481_703250688953362_101768846171896830_n.enc?ccb=11-4&oh=01_Q5Aa1gEtCz_y1KxAr6ynhCIc1JY6KNNc2-YKb8vdnzuaQZrjmA&oe=684C7D9C&_nc_sid=5e03e0&mms3=true';
+$encUrl = 'https://mmg.whatsapp.net/v/t62.7117-24/23375481_703250688953362_101768846171896830_n.enc?ccb=11-4&oh=01_Q5Aa1gEtCz_y1KxAr6ynhCIc1JY6KNNc2-YKb8vdnzuaQZrjmA&oe=684C7D9C&_nc_sid=5e03e0&mms3=true';
 $mediaKeyBase64 = '3lj3QOzAHs1vpiduOmUIRAXUGxYKlNttg3KeUuEa3LM=';
 $mediaType = 'audio'; // Pode ser image, video, document, etc.*/
 
